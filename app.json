@@ -24,7 +24,7 @@
       "required" : false,
       "value": ""
     },
-    "SECRET_IMG": {
+    "DAISY_IMG": {
       "description": "Secret Society Bot's Logo.. Telegra.ph only",
       "value": "https://telegra.ph/file/ce67ab3175853ca2cae5c.jpg"
     },
