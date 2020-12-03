@@ -1,11 +1,11 @@
-# The Daisy Robot
+# Secret Society Bot 🇱🇰
 All Errors are now fixed and the bot is working fine..
 
-![Daisy](https://telegra.ph/file/d0c0156487ee42d9685e9.jpg)
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BruceWayne175/secretsocietybot.git)
 
 A Modular Group management Bot on Sinhala
 
@@ -21,27 +21,26 @@ A Modular Group management Bot on Sinhala
 2) Create a new bot from @botfather and copy its api token
 
 ```
-![api](https://telegra.ph/file/9770210e1205bce0e06bb.png)
 
 ```
 3) Click Deploy
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/https://github.com/BruceWayne175/secretsocietybot.git)
 ```
 3) Give an app name
 
 ```
-![Appname](https://telegra.ph/file/216e81c30118aeabd6574.png)
+
 ```
 3) Paste the Api token copied at token space
 
 ```
-![Token](https://telegra.ph/file/83574a44d10a89ea8e4d9.png)
+
 ```
 4) Enter url of the app ass https://#Appneme.herokuapp.com
 
 ```
-![url](https://telegra.ph/file/5b159343abc4d3a369ac0.png)
+
 ```
 5)Then Deploy
 
@@ -51,11 +50,11 @@ A Modular Group management Bot on Sinhala
 7) Goto Resources and Turn Worker Emilia to on (by clicking edit)
 
 ```
-![worker](https://telegra.ph/file/eed4d6b0a2177bf7cdf76.png)
+
 ```
 8) Goto Logs and check for the errors
 ```
-![logs](https://telegra.ph/file/06409b6ce522d005a3ad4.png)
+
 ```
 
 
@@ -66,7 +65,7 @@ A Modular Group management Bot on Sinhala
      - You can remove entry Daisy logo in Main.py.
      - Link your Credit card to Heroku for get extra amount of dynos.
      
-*I am just a learner and this is the code I used as MissDaisyRobot
+*I am just a learner and this is the code I used as Secret Society Bot 🇱🇰
 ```
 <details>
 <summary>-THE HARD WAY of deploying -</summary>
