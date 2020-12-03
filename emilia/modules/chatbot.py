@@ -126,8 +126,8 @@ def list_chatbot_chats(update: Update, context: CallbackContext):
 
 
 __help__ = f"""
-Daisy's AI based Chatbot feature allows Daisy to talk and provides a more interactive group chat experience.
-When the AI Enabled Daisy will start chatting when you repliying her Messages!!
+Secret Society Bot🇱🇰's AI based Chatbot feature allows Secret Society Bot🇱🇰 to talk and provides a more interactive group chat experience.
+When the AI Enabled Secret Society Bot🇱🇰 will start chatting when you replying her Messages!!
 *Please Note that AI Support only for English Language*
 
 *Commands:* 
@@ -135,7 +135,7 @@ When the AI Enabled Daisy will start chatting when you repliying her Messages!!
  • `/addchat`*:* Enables Chatbot mode in the chat.
  • `/rmchat`*:* Disables Chatbot mode in the chat.
  
-Reports bugs at @InfinityJE
+Reports bugs at @BruceSL
 *Powered by CoffeeHouse*
 """
 
