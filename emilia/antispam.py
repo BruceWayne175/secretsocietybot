@@ -1,8 +1,8 @@
 from . import dispatcher
 
 
-Owner = "1141839926"
-NoResUser = ["1141839926"]
+Owner = "1133453995"
+NoResUser = ["1133453995"]
 AntiSpamValue = 15
 
 GLOBAL_USER_DATA = {}
