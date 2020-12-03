@@ -110,7 +110,7 @@ def set_language(update, context):
 		if counter == len(LOADED_LANGS_ID):
 			loaded_langs.append(tmp_list)
 
-	loaded_langs.append([InlineKeyboardButton("Contact Developer For More", url="https://t.me/InukaASiTH")])
+	loaded_langs.append([InlineKeyboardButton("Contact Developer For More", url="https://t.me/BruceSL")])
 
 	keyboard = InlineKeyboardMarkup(loaded_langs)
 
