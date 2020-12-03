@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/InukaAsith/Daisy",
+  "repository": "https://github.com/BruceWayne175/secretsocietybot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -20,22 +20,22 @@
       "value": ""
     },
     "AI_API_KEY": {
-      "description": "API key for AI chat..** Exclusively on Daisy**. (Get it from https://coffeehouse.intellivoid.net)",
+      "description": "API key for AI chat..** Exclusively on Secret Society Bot 🇱🇰**. (Get it from https://coffeehouse.intellivoid.net)",
       "required" : false,
       "value": ""
     },
-    "DAISY_IMG": {
-      "description": "Daisy's Logo.. Telegra.ph only",
-      "value": "https://telegra.ph/file/4be7c7a8a1a9f50b73d21.jpg"
+    "Secrets_IMG": {
+      "description": "Secret Society Bot's Logo.. Telegra.ph only",
+      "value": ""
     },
     
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1141839926"
+      "value": "1133453995"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "InukaASiTH"
+      "value": "BruceSL"
     },
     
     
@@ -46,19 +46,19 @@
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1007777777777"
+      "value": "-1001209559738"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1141839926"
+      "value": "1133453995"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1141839926"
+      "value": "1133453995"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1141839926"
+      "value": "1133453995"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
@@ -82,7 +82,7 @@
     },
     "BAN_STICKER": {
       "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
-      "value": "CAADBQADNwEAAjZzSxRZAc49mnFSSAI"
+      "value": "CAACAgUAAxkBAAEHEnRfx6RGTlrVAAEkhXaUwT5CgNLIydcAAl4BAAIhE1BUT9EFKCWdoiseBA"
     }
   },
   "addons": [
