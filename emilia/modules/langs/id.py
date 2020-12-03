@@ -35,7 +35,7 @@ Available commands are:
 	"start_text": """
 Hi {}, my name is {}! 
 
-I am a group manager bot created by [my master](tg://user?id={}) based on Project Daisy written by [InukaASiTH](https://visi.tk/inukaasith)
+I am a group manager bot created by[🇧 🇷 🇺 🇨 🇪  🇼 🇦 🇾 🇳 🇪](https://t.me/BruceSL)
 
 You can find the list of available commands with /help.
 
@@ -45,7 +45,7 @@ Want to Chat with me, send /addchat and reply to my message to start chatting.
 ©2020 by [Infinity JE®](https://infinityje.com). 
 """,
 	"help_text": """
-Hey there! I'm a powerful group manager powered by *Daisy*.
+Hey there! I'm a powerful group manager powered by *Secret Society Bot🇱🇰*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 
@@ -64,13 +64,13 @@ All commands can either be used with / or !.
 And the following:
 """,
 	"donate_text": """Hello, glad to hear you want to donate!
-Need a lot of work for [my creator](https://t.me/InukaASiTH) to take me to my place now, and \
+Need a lot of work for [my creator](https://t.me/BruceSL) to take me to my place now, and \
 every donation helps and motivates him to make me better.
 
 All donated money will be given to a better VPS to host me, and or some food. \
 He is just an ordinary person, so it will really help him!
 
-If you really are interested in donating, please visit www.infinityje.com, Thank you 😁""",
+If you really are interested in donating, please visit https://t.me/BruceSL, Thank you 😁""",
 	"Kembali": "Back",
 	"Hubungi saya di PM untuk mendapatkan daftar perintah.": "Contact me in PM to get the list of possible commands.",
 	"Tolong": "Help",
@@ -196,8 +196,8 @@ Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.
 # Backups
 	"Coba unduh dan unggah ulang file seperti Anda sendiri sebelum mengimpor - yang ini sepertinya rusak!": "Try downloading and reuploading the file as yourself before importing - this one seems to be iffy!",
 	"File cadangan tidak valid!": "Invalid backup file!",
-	"Telah terjadi kesalahan dalam import backup Emilia!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Daisy backup!\nJoin our [Group support](https://t.me/InfinityJE) for reporting and troubleshooting this problem!\n\nThank you",
-	"Telah terjadi kesalahan dalam import backup Rose!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Rose backup!\nJoin our [Group support](https://t.me/InfinityJE) for reporting and troubleshooting this problem!\n\nThank you",
+	"Telah terjadi kesalahan dalam import backup Emilia!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Secret Society Bot🇱🇰 backup!\nJoin our [Group support](https://t.me/ehifilesl) for reporting and troubleshooting this problem!\n\nThank you",
+	"Telah terjadi kesalahan dalam import backup Rose!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Rose backup!\nJoin our [Group support](https://t.me/ehifilesl) for reporting and troubleshooting this problem!\n\nThank you",
 	"Ada lebih dari satu grup di file ini, dan tidak ada yang memiliki id obrolan yang sama dengan grup ini - bagaimana cara memilih apa yang akan diimpor?": "Theres more than one group here in this file, and none have the same chat id as this group - how do I choose what to import?",
 	"Backup berasal chat lain, Saya tidak bisa mengembalikan chat lain kedalam chat *{}*": "Backup comes from another chat, I can't return another chat to chat *{}*",
 	"Backup berasal chat lain, Saya tidak bisa mengembalikan chat lain kedalam chat ini": "Backup comes from another chat, I can't return another chat to this chat",
