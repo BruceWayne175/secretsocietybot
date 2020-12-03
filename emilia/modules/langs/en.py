@@ -34,9 +34,7 @@ Available commands are:
 	"start_text": """
 Hi {}, my name is {}! 
 
-I am a group manager bot 
 
-💖Created by💖
 
 I am a group manager bot 
 
