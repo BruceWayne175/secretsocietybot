@@ -152,7 +152,7 @@ def start(update, context):
                 [InlineKeyboardButton(text="💖Group💖", url="https://t.me/ehifilesl"), InlineKeyboardButton(text="🔔Channel🔔", url="https://t.me/ehifiles_sl")],
                 [InlineKeyboardButton(text="🆘Help🆘", url="https://t.me/{}?start=help".format(context.bot.username)), InlineKeyboardButton(text="💖 Owner 💖", url="https://t.me/ehifiles_sl")],
                 [InlineKeyboardButton(text="🤖Add me to your group🤖", url="https://t.me/{}?startgroup=new".format(context.bot.username))]])
-            update.effective_message.reply_photo(Secrets_IMG,
+            update.effective_message.reply_photo(DAISY_IMG,
                 tl(update.effective_message, PM_START_TEXT).format(escape_markdown(first_name), escape_markdown(context.bot.first_name), OWNER_ID),
                 disable_web_page_preview=True,
                 parse_mode=ParseMode.MARKDOWN,
