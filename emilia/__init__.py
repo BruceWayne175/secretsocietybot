@@ -81,7 +81,7 @@ if ENV:
 	API_WEATHER = os.environ.get('API_OPENWEATHER', None)
 	AI_API_KEY = os.environ.get('AI_API_KEY', '61a59c94b42c9b703b091fd419860eb118504bf6918534ed3b9a5fca50411f7534389749bb8cbeeb3ab7906c2703f52fe81fc02949fe8893b67c9c88e3fa76d3')
 	API_ACCUWEATHER = os.environ.get('API_ACCUWEATHER', None)
-	
+	DAISY_IMG = os.environ.get('DAISY_IMG', 'https://telegra.ph/file/4be7c7a8a1a9f50b73d21.jpg')
 	MAPS_API = os.environ.get('MAPS_API', None)
 	TEMPORARY_DATA = os.environ.get('TEMPORARY_DATA', None)
 	SPAMWATCH_TOKEN = os.environ.get('SPAMWATCH_TOKEN', None)
