@@ -12,7 +12,7 @@ en = {
     "Saya tidak bisa membatasi orang di sini! Pastikan saya admin dan dapat menunjuk admin baru.": "මට කට්ටියව තහනම් කරන්න බෑ! මට අලුතින් ඇඩ්මින්ල දාන්න අවසර තියෙයිද බලන්නකෝ.",
     "Saya bukan admin!": "I'm not admin!",
     "Siapa ini yang bukan admin memberikan perintah kepada saya?": "මේ ඇඩ්මින් නැති හාදය මොකද්ද මට කරන්න කියන්නේ?",
-    "Anda bukan admin di grup ini!": "අය්‍යේ ඔයා මේකේ ඇඩ්මින් නෙමේනේ!",
+    "Anda bukan admin di grup ini!": "අය්යෝ ඔයා මේකේ ඇඩ්මින් නෙමේනේ!",
 
     # languages
     "Bahasa telah di ubah ke {}!": "Language changed",
@@ -35,7 +35,7 @@ Available commands are:
     
 Hi {}, my name is {}! 
 
-I am a group manager bot created by [my master](tg://user?id={}) based on Project Daisy written by [InukaASiTH](https://visi.tk/inukaasith)
+I am a group manager bot created by [🇧 🇷 🇺 🇨 🇪  🇼 🇦 🇾 🇳 🇪](https://t.me/BruceSL)
 
 You can find the list of available commands with /help.
 
