@@ -1,7 +1,7 @@
 
 __lang__ = "🇺🇸 English"
 
-id = {
+en = {
 # Global default
 	"Anda bisa lakukan command ini pada grup, bukan pada PM": "You can do this command in groups, not PM",
 	"Anda sepertinya tidak mengacu pada pengguna.": "You don't seem to be referring to a user.",
@@ -19,13 +19,12 @@ id = {
 	"Bahasa telah di ubah ke {}!": "Language changed",
 	"Bahasa di *{}* saat ini adalah:\n{}.\n\nPilih bahasa:": "Select language to apply: \n\nCurrent chat Language is *English*",
 	"obrolan saat ini": "current in this chat",
-	"language_help": """Not every SL group speaks English; some groups would rather have Daisy respond in their own language.
+	"language_help": """Not every SL group speaks English; some groups would rather have Secret Society Bot🇱🇰 not respond in their own language.
 
-This is where Daisy come in; you can change most of Daisy's replies to be in the Sinhala language!
+This is where Secret Society Bot🇱🇰 come in; you can change most of Secret Society Bot🇱🇰's replies to be in the Sinhala language!
 
 Available languages are:
 - 🇺🇸 English
-- 🇱🇰 Sinhala
 
 Available commands are:
  - /setlang: set your prefered language.""",
@@ -35,17 +34,24 @@ Available commands are:
 	"start_text": """
 Hi {}, my name is {}! 
 
-I am a group manager bot created by [my master](tg://user?id={}) based on Project Daisy written by [InukaASiTH](https://visi.tk/inukaasith)
+I am a group manager bot 
+
+💖Created by💖
+
+I am a group manager bot 
+
+💖created by;💖
+
+[🇧 🇷 🇺 🇨 🇪  🇼 🇦 🇾 🇳 🇪](https://t.me/BruceSL)
 
 You can find the list of available commands with /help.
 
 Want to Chat with me, send /addchat and reply to my message to start chatting.
 
-[- The Source code is available on Github -](https://github.com/InukaAsith/Daisy.git)
-©2020 by [Infinity JE®](https://infinityje.com). 
+©2020 by [Secret Society 🇱🇰](https://t.me/ehifilesl). 
 """,
 	"help_text": """
-Hey there! I'm a powerful group manager powered by *Daisy*.
+Hey there! I'm a powerful group manager powered by *Secret Society Bot🇱🇰*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 
@@ -64,13 +70,13 @@ All commands can either be used with / or !.
 And the following:
 """,
 	"donate_text": """Hello, glad to hear you want to donate!
-Need a lot of work for [my creator](https://t.me/InukaASiTH) to take me to my place now, and \
+Need a lot of work for [my creator](https://t.me/BruceSL) to take me to my place now, and \
 every donation helps and motivates him to make me better.
 
 All donated money will be given to a better VPS to host me, and or some food. \
 He is just an ordinary person, so it will really help him!
 
-If you really are interested in donating, please visit www.infinityje.com, Thank you 😁""",
+If you really are interested in donating, please visit https://t.me/BruceSL , Thank you 😁""",
 	"Kembali": "Back",
 	"Hubungi saya di PM untuk mendapatkan daftar perintah.": "Contact me in PM to get the list of possible commands.",
 	"Tolong": "Help",
