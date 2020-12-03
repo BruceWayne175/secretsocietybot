@@ -35,14 +35,17 @@ Available commands are:
 	"start_text": """
 Hi {}, my name is {}! 
 
-I am a group manager bot created by[🇧 🇷 🇺 🇨 🇪  🇼 🇦 🇾 🇳 🇪](https://t.me/BruceSL)
+I am a group manager bot 
+
+💖created by;💖
+
+[🇧 🇷 🇺 🇨 🇪  🇼 🇦 🇾 🇳 🇪](https://t.me/BruceSL)
 
 You can find the list of available commands with /help.
 
 Want to Chat with me, send /addchat and reply to my message to start chatting.
 
-[- The Source code is available on Github -](https://github.com/InukaAsith/Daisy.git)
-©2020 by [Infinity JE®](https://infinityje.com). 
+©2020 by [Secret Society](https://t.me/ehifilesl). 
 """,
 	"help_text": """
 Hey there! I'm a powerful group manager powered by *Secret Society Bot🇱🇰*.
