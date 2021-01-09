@@ -19,9 +19,9 @@ en = {
 	"Bahasa telah di ubah ke {}!": "Language changed",
 	"Bahasa di *{}* saat ini adalah:\n{}.\n\nPilih bahasa:": "Select language to apply: \n\nCurrent chat Language is *English*",
 	"obrolan saat ini": "current in this chat",
-	"language_help": """Not every SL group speaks English; some groups would rather have Secret Society Bot🇱🇰 not respond in their own language.
+	"language_help": """Not every SL group speaks English; some groups would rather have 🎧💛Music Hub SL♥️🎶🇱🇰 not respond in their own language.
 
-This is where Secret Society Bot🇱🇰 come in; you can change most of Secret Society Bot🇱🇰's replies to be in the Sinhala language!
+This is where 🎧💛Music Hub SL♥️🎶 come in; you can change most of Se🎧💛Music Hub SL♥️🎶🇱🇰's replies to be in the Sinhala language!
 
 Available languages are:
 - 🇺🇸 English
@@ -38,20 +38,20 @@ I am a group manager bot.
 
 💖created by;💖
 
-[🇧 🇷 🇺 🇨 🇪  🇼 🇦 🇾 🇳 🇪](https://t.me/BruceSL)
+[🖤💚Harvey Dent💛🖤](https://t.me/ImDead_SL)
 
 You can find the list of available commands with /help.
 
 Want to Chat with me, send /addchat and reply to my message to start chatting.
 
-©2020 by [Secret Society 🇱🇰](https://t.me/ehifilesl). 
+©2021 by [🎧💛Music Hub SL♥️🎶🇱🇰](https://t.me/MusicHubSL). 
 """,
 	"help_text": """
-Hey there! I'm a powerful group manager powered by *Secret Society Bot🇱🇰*.
-I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
+Hey! My name is *🎧💛Music Hub SL♥️🎶🇱🇰*.
+I am a group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 
-*Main* commands available:
+🏓*Main* commands available:
  - /start: start the bot
  - /help: PM's you this message.
  - /help <module name>: PM's you info about that module.
@@ -66,13 +66,13 @@ All commands can either be used with / or !.
 And the following:
 """,
 	"donate_text": """Hello, glad to hear you want to donate!
-Need a lot of work for [my creator](https://t.me/BruceSL) to take me to my place now, and \
+Need a lot of work for [my creator](https://t.me/ImDead_SL) to take me to my place now, and \
 every donation helps and motivates him to make me better.
 
 All donated money will be given to a better VPS to host me, and or some food. \
 He is just an ordinary person, so it will really help him!
 
-If you really are interested in donating, please visit https://t.me/BruceSL , Thank you 😁""",
+If you really are interested in donating, please visit https://t.me/@ImDead_SL , Thank you 😁""",
 	"Kembali": "Back",
 	"Hubungi saya di PM untuk mendapatkan daftar perintah.": "Contact me in PM to get the list of possible commands.",
 	"Tolong": "Help",
