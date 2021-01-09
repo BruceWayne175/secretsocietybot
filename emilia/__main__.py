@@ -148,9 +148,9 @@ def start(update, context):
             first_name = update.effective_user.first_name
             buttons = InlineKeyboardMarkup(
                 [
-                [InlineKeyboardButton(text="💭 Language", callback_data="main_setlang"), InlineKeyboardButton(text="⚙️Connect group", callback_data="main_connect")],
-                [InlineKeyboardButton(text="💖 Group 💖", url="https://t.me/ehifilesl"), InlineKeyboardButton(text="🔔Channel🔔", url="https://t.me/ehifiles_sl")],
-                [InlineKeyboardButton(text="🆘 Help 🆘", url="https://t.me/{}?start=help".format(context.bot.username)), InlineKeyboardButton(text="🔵 Owner 🔵", url="https://t.me/BruceSL")],
+                [InlineKeyboardButton(text="💭 Language 🌍", callback_data="main_setlang"), InlineKeyboardButton(text="⚙️Connect group⚙️", callback_data="main_connect")],
+                [InlineKeyboardButton(text="💖 Group 💖", url="https://t.me/MusicHubSL"), InlineKeyboardButton(text="🔔Channel🔔", url="https://t.me/MusicHubSLc")],
+                [InlineKeyboardButton(text="🆘 Help 🆘", url="https://t.me/{}?start=help".format(context.bot.username)), InlineKeyboardButton(text="🔵 Owner 🔵", url="https://t.me/ImDead_SL")],
                 [InlineKeyboardButton(text="🤖Add me to your group🤖", url="https://t.me/{}?startgroup=new".format(context.bot.username))]])
             update.effective_message.reply_photo(DAISY_IMG,
                 tl(update.effective_message, PM_START_TEXT).format(escape_markdown(first_name), escape_markdown(context.bot.first_name), OWNER_ID),
